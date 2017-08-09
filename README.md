@@ -2,7 +2,7 @@
 ##### 今天用vue做有个小例子
 ##### 首先要去vue的官网去看看，https://cn.vuejs.org/   官网唯一的好处就是中文版的
 ##### 我们先简单的认识一下vue再来进行安装
-![image](D:\姜\学习\vue\vue.png)
+![看这里](https://github.com/jianghongyan728/Vue-ToDo-/blob/master/vue.png);
 #### 命令行安装
 ```
 # 全局安装 vue-cli
@@ -15,11 +15,11 @@ $ npm install
 $ npm run dev
 ```
 > 安装vue init webpack my-project的时候会出现几条命令，都选择no就可以了
-![image](D:\姜\学习\vue\ming.png)
+![看这里](https://github.com/jianghongyan728/Vue-ToDo-/blob/master/ming.png);
 
 > 译者注：对于大陆用户，建议将 npm 的注册表源设置为国内的镜像，可以大幅提升安装速度。可以用中国淘宝的镜像cnpm
 ##### 首先我们看一下一个小例子，然后在做Todo的小例子
-![image](D:\姜\学习\vue\li.png)
+![看这里](https://github.com/jianghongyan728/Vue-ToDo-/blob/master/li.png);
 ##### 接下来看看我们的代码吧
 ###### App.vue
 
@@ -147,7 +147,7 @@ export default{
 }
 ```
 ###### 接下来看看效果吧！！！！
-![image](D:\姜\学习\vue\xiao.gif)
+![看这里](https://github.com/jianghongyan728/Vue-ToDo-/blob/master/xiao.gif);
 
 #### 接下来我们就做一个小总结
 
